@@ -1,24 +1,24 @@
 # Trash Flight
 
-환경을 주제로 한 2D Unity 비행 게임 (개발 중)
+An environment-themed 2D flight game built with Unity (Work in Progress)
 
-## 개발 환경
+## Tech Stack
 
 - Unity 6
 - C#
 
-## 현재 구현된 기능
+## Implemented Features
 
-- 플레이어 좌우 이동 (화살표 키)
-- 배경 자동 스크롤
+- Player horizontal movement (arrow keys)
+- Auto-scrolling background
 
-## 개발 예정
+## Roadmap
 
-- [ ] 장애물 및 아이템 시스템
-- [ ] 점수 시스템
-- [ ] UI (시작 화면, 게임 오버)
-- [ ] 사운드
+- [ ] Obstacle and item system
+- [ ] Score system
+- [ ] UI (start screen, game over)
+- [ ] Sound effects and music
 
 ---
 
-> 이 프로젝트는 현재 개발 중이며, 새로운 기능이 추가될 때마다 업데이트됩니다.
+> This project is under active development. This README will be updated as new features are added.
