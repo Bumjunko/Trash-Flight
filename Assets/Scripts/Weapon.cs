@@ -5,6 +5,8 @@ public class Weapon : MonoBehaviour
     [SerializeField]
     private float moveSpeed = 10f;
 
+    public float damage = 1f;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
